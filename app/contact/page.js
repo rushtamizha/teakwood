@@ -99,8 +99,8 @@ const ContactPage = () => {
                 <p className="text-white/60 text-sm font-medium leading-relaxed">
                   Teakwood Holidays <br />
                   (A Division of Teakwood Travels) <br />
-                  Main Road, Theni, Tamil Nadu <br />
-                  India - 625531
+                  Auroville Main Road, <br/>Kuyilapalayam, <br/>
+                  Puducherry - 605101
                 </p>
               </div>
             </div>
